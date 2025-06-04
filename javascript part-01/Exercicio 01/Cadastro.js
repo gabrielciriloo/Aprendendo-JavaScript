@@ -1,3 +1,5 @@
+//O exercício pedia para realizar um cadastro de usuário.
+
 const nome = prompt("Insira seu primeiro nome")
 
 const sobrenome = prompt("Insira seu sobre nome")
