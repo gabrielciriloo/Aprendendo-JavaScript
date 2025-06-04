@@ -1,3 +1,5 @@
+//Exercício pedia para criar um conversor de medidas.
+
 const medida = prompt("Escolha um número em metros: ")
 const conversao = prompt("Escolha a conversão:\n " +
     "\n1. milimetros(mm)" + 
