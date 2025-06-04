@@ -1,3 +1,5 @@
+//Exercício pedia para criar um cálculo de dano.
+
 const atacante = prompt("Qual é o nome do personagem atacante?")
 const poderDeAtaque = Number(prompt("Qual é o seu poder de ataque?"))
 
