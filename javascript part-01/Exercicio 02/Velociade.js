@@ -1,3 +1,5 @@
+//Exercício pedia para criar um teste de velocidade.
+
 const v1 = Number(prompt("qual a velocidade do primeiro carro?: "))
 const v2 = Number(prompt("qual a velocidade do segundo carro?: "))
 
