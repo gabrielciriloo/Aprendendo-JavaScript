@@ -1,3 +1,5 @@
+//O exercício pedia para realizar uma calculadora de 4 operações.
+
 const primeiro = prompt("Insira o primeiro valor:")
 const segundo = prompt("Insira o segundo valor:")
 
